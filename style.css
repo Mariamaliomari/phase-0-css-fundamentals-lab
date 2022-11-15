@@ -18,12 +18,11 @@ figure{
   padding-right: 10px;
   padding-left: 10px;
   background-color: blueviolet;
-#nav{
+.nav{
   text-align: center;
-  padding-right: 10px;
-  padding-left: 10px;
-background-color: brown;
-}
+  
+ p}
+
 div{
   background-color:rgb(88, 55, 221);
   text-align: center;
@@ -36,14 +35,9 @@ div{
 
   text-align: justify;
   text-align: center;
-  size: 800px;
-
-
-
-
-}
-p{
-  text-align: center;
 }
 
 
+a{background-color: brown;
+  padding-right: 10px;
+  padding-left: 10px;}
